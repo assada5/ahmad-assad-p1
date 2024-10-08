@@ -28,4 +28,4 @@ This project is a web application using MongoDB, Express, and Node.js with API e
 ## API Documentation
 - GET /api/items: Retrieve all items
 - POST /api/items: Create a new item
-  - Body: { "name": "Item Name", "description": "Item Description" }
+  - Body: { "name": "Item Name", "description": "Item Description" }# ahmad-assad-p1
